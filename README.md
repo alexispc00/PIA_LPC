@@ -1,6 +1,12 @@
-### PIA_LPC
-"""README de repositorio: Deberá contar con una descripción breve del repositorio, los datos del alumno (nombre y matricula). Deberá contar con secciones una por cada tema de práctica, de cada sección se deberá redactar una descripción breve y colocar un link que te dirija a la sección correspondiente. Se recomienda el uso de markdown para diseño del README.
-Este repositorio trata de darte a informar de lo que se trata este github, el cual trata de varios scripts en bash, powershell, python, los cuales serian;    
+# PIA_LPC
+README de repositorio: Deberá contar con una descripción breve del repositorio, los datos del alumno (nombre y matricula). Deberá contar con secciones una por cada tema de práctica, de cada sección se deberá redactar una descripción breve y colocar un link que te dirija a la sección correspondiente. Se recomienda el uso de markdown para diseño del README.
+Este repositorio trata de darte a informar de lo que se trata este github, el cual trata de varios scripts en bash, powershell, python, los cuales serian; 
+| Bash           | PowerShell    | Python      | Combinados     |
+|----------------|---------------|-------------|----------------|
+| Manejo de APIs | Script En Ps  | Webscraping | Escn. de prt.  |
+|----------------|---------------|-------------|----------------|
+|            |            |           |             |
+
 - Manejo de APIs
 - Scripting en PowerShell
 - Scripting en Bash
@@ -11,8 +17,10 @@ Este repositorio trata de darte a informar de lo que se trata este github, el cu
 - Escáner de Puertos
 - Envió de Correos
 - Automatización de Tareas
-¬ Nombre del alumno: Anhuar Alexis Plata Corpus
-¬ Matricula: 2023858
+
+- Nombre del alumno: Anhuar Alexis Plata Corpus
+
+- Matricula: 2023858
 
 
 Cada sección deberá contar con:
