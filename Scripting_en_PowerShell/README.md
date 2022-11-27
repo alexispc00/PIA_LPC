@@ -1,3 +1,3 @@
-PARTE 1 – ESCANEO DE EQUIPOS ACTIVOS
+El script llamado **"scan_alivev2.ps1"** hace un escaneo de equipos activos en la red.
 
-PARTE 2 – Escaneo puertos de un equipo en la subred
+El script llamado **"scan_portv1.ps1"** hace un escaneo de puertos en un equipo en la subred.
