@@ -21,5 +21,6 @@ En el archivo buscaremos que estén configuradas las siguientes opciones:
 - userlist_file=/etc/vsftpd.user_list
 - userlist_deny=NO
 
-script llamado ftp.py
-Se conecta a un servidor en debian 11, usamos credenciales que se crearon previamente y carga un archivo llamado ADVERTENCIA.txt pero modificado
+Script llamado **ftp.py**.
+Se conecta a un servidor en debian 11, usamos credenciales que se crearon previamente y carga un archivo llamado ADVERTENCIA.txt pero modificado.
+Archivo **ADVERTENCIA.txt**; es un texto comun.
