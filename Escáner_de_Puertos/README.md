@@ -12,7 +12,7 @@ Determina y muestra los puertos que estan abiertos y en estos mismos se crean hi
 - SCAN_PORTV4
 Informa sobre, que servicio está asociado con dicho puerto, edtermina si un puerto se encontró abierto, muestra todos los puertos TCP, muestra los protocolos de transporte del equipo escaneado a partir de su dirección IP, muestra el estado de un equipo.  
 
-- Script
+- menuscn.py
 Despliegua un menú con las siguientes opciones:
 
 Tipo de escaneo:
