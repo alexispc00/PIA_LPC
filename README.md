@@ -5,9 +5,9 @@ Este repositorio trata de darte a informar de lo que se trata este github, el cu
 |----------------|---------------|-------------|----------------|
 | Manejo de APIs | Script En Ps  | Webscraping | Escn. de prt.  |
 |----------------|---------------| FTP         |----------------|
-| Scripting en Bash|            |Escáner de Puertos |             |
-|Automatización de Tareas| |Envió de Correos||
-| | |Encoding & Decoding| |
+| Scripting en Bash|            |Escáner de Puertos |Automatización de Tareas|
+|| |Envió de Correos|Encoding & Decoding|
+| | || |
 | | |Manejo de APIs | |
 |  | | | |
 - Nmap
