@@ -1,5 +1,5 @@
 # PIA_LPC
-README de repositorio: Deberá contar con una descripción breve del repositorio, los datos del alumno (nombre y matricula). Deberá contar con secciones una por cada tema de práctica, de cada sección se deberá redactar una descripción breve y colocar un link que te dirija a la sección correspondiente. Se recomienda el uso de markdown para diseño del README.
+
 Este repositorio trata de darte a informar de lo que se trata este github, el cual trata de varios scripts en bash, powershell, python, los cuales serian; 
 | Bash           | PowerShell    | Python      | Combinados     |
 |----------------|---------------|-------------|----------------|
